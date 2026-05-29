@@ -1,3 +1,4 @@
+
 EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
 Aim: To write the prompts for the following prompt types for 2 different scenarios of Each type.
@@ -44,4 +45,5 @@ Missing Word Prompting:
 
 OUTPUT:
 
-RESULT: 
+RESULT: [EXP-3-Prompt-Engineering_README.md at main · boomeshh3-cmd_EXP-3-Prompt-Engineering.pdf](https://github.com/user-attachments/files/28395903/EXP-3-Prompt-Engineering_README.md.at.main.boomeshh3-cmd_EXP-3-Prompt-Engineering.pdf)
+
