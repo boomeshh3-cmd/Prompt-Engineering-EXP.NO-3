@@ -44,4 +44,7 @@ Missing Word Prompting:
 
 OUTPUT:
 
-RESULT: 
+RESULT:
+
+[EXP-3-Prompt-Engineering_README.md at main · boomeshh3-cmd_EXP-3-Prompt-Engineering.pdf](https://github.com/user-attachments/files/28395997/EXP-3-Prompt-Engineering_README.md.at.main.boomeshh3-cmd_EXP-3-Prompt-Engineering.pdf)
+
